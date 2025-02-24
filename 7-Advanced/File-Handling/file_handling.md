@@ -241,7 +241,7 @@ ___
 
 
 # `Opening and Closing Files`
-Working with files is an essential skill for programmers because it allows for reading, writing, and managing persistant data from on execution to the next.
+Working with files is an essential skill for programmers because it allows for reading, writing, and managing persistant data from one execution to the next.
 
 <br>
 
